@@ -111,3 +111,7 @@ npm run dev
 
 <a href="https://www.algolia.com/doc/guides/security/api-keys/" target="_blank">How to get Aloglia Keys</a>
 <a href="https://talkjs.com/docs/Reference/Concepts/Sessions/" target="_blank">How to get TalkJs App ID</a>
+
+### Documentation
+
+More details about the code structure can be found in [docs/architecture.md](docs/architecture.md).
